@@ -1,3 +1,5 @@
+import React from "react";
+
 const PreviewCard = ({ image, title }) => (
   <React.Fragment>
     <div className="preview-card">
